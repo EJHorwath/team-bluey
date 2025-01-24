@@ -1,0 +1,14 @@
+Sample,Sex,Age,SampleID,Name in Chimera,Name in all_counts
+Control 1,M,46,SRR17439784,patient1,C1
+Control 2,F,42,SRR17439785,patient2,C2
+Control 3,F,50,SRR17439786,patient3,C3
+MM 1,F,55,,,
+MM 2,M,60,SRR17439782,patient4,M1
+MM 3,F,51,SRR17439781,patient5,M2
+MM 4,F,46,SRR17439780,patient6,M3
+MM 5,M,70,,,
+MM 6,M,67,,,
+MM 7,F,73,,,
+MM 8 ,F,57,,,
+MM 9,F,68,,,
+MM 10,F,49,,,
